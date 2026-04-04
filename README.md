@@ -1,29 +1,39 @@
-A personal portfolio website built using HTML and CSS.
-Pages:
-Home - Introduction with my name, role.
-Hobbies - Gaming, Photography, Exploring Technology, Problem Solving.
-Skills - HTML5, CSS3, Python, Java, OOPs, OpenCV.
-Projects - Login Form, ATM Simulation, Simple Calculator.
-Contact - Contact form with email, phone number.
+Personal Portfolio Website
 
-Technologies Used:
-HTML5;
-CSS3
+ This project is a multi-page website built to showcase my skills, projects, hobbies, and contact information. 
 
-Projects:
-Login Form:
-A responsive login form with styled input fields and hover effects.
-GitHub: https://github.com/VBhanuKarthikReddy/LOGIN-FORM;
-ATM Simulation:
-Console-based ATM simulation using OOP concepts — account creation, deposit, withdrawal, and PIN validation.
-GitHub: https://github.com/VBhanuKarthikReddy/ATM-SIMULATION;
-Simple Calculator:
-A basic calculator that performs addition, subtraction, multiplication, and division.
-GitHub: https://github.com/VBhanuKarthikReddy/SIMPLE-CALCULATOR
+ About The Project
 
-Contact:
-Email: vkarthikreddy13@gmail.com;
-Phone: (+91) 8985164583;
-LinkedIn: https://www.linkedin.com/in/karthik-reddy-0788b539a;
-GitHub: https://github.com/VBhanuKarthikReddy;
-X: https://x.com/Vkarthikreddy13
+This portfolio is designed to be a clean, modern, and responsive representation of my professional profile. It acts as an online resume where visitors can learn more about me, the technologies I work with, and the projects I have built.
+
+The website consists of the following sections:
+- *Home (1.index.html)*: A brief introduction about me and direct links to my social profiles.
+- *Hobbies (2.hobbies.html)*: A page dedicated to my interests and activities outside of coding.
+- *Skills (3.skills.html)*: A showcase of the technical skills and tools I have experience in.
+- *Projects (4.projects.html)*: A collection of projects I've worked on, demonstrating my practical experience.
+- *Contact (5.contact.html)*: A way for visitors, recruiters, or potential collaborators to get in touch with me.
+
+Technologies Used
+HTML5: For structuring the web pages.
+CSS3: For styling, layout, and responsive design.
+
+Getting Started
+To view this project locally on your machine, follow these simple steps:
+
+1. Clone the repository:
+   bash
+   git clone https://github.com/VBhanuKarthikReddy/portfolio-website.git
+   
+2. Navigate to the project directory:
+   bash
+   cd portfolio-website
+   
+3. Open the project:
+   Simply double-click the 1.index.html file to open it in your default web browser. No local server is required.
+
+ Contact Me
+
+Feel free to connect with me on my social platforms:
+- LinkedIn: [Karthik Reddy](https://www.linkedin.com/in/karthik-reddy-0788b539a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [VBhanuKarthikReddy](https://github.com/VBhanuKarthikReddy)
+- X : [Vkarthikreddy13](https://x.com/Vkarthikreddy13)
