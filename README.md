@@ -6,10 +6,15 @@
 This portfolio is designed to be a responsive representation of my professional profile. It acts as an online resume where visitors can know more about me, the technologies I work with, and the projects I have built.
 
 The website consists of the following sections:
+
   Home (1.index.html): A brief introduction about me and direct links to my social profiles.
+  
   Hobbies (2.hobbies.html): A  about my interests and activities outside of coding.
+  
   Skills (3.skills.html): A showcase of the technical skills and tools I have experience in.
+  
   Projects (4.projects.html): A collection of projects I've worked on, demonstrating my practical experience.
+  
   Contact (5.contact.html): A way for visitors, recruiters,  collaborators to get in touch with me.
 
 ## Technologies Used
