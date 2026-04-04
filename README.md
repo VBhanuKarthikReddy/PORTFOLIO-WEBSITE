@@ -3,9 +3,6 @@ Personal Portfolio Website
 
 Welcome to my personal portfolio website! This project is a multi-page website built to showcase my skills, projects, hobbies, and contact information. 
 
-## 🚀 Live Demo
-(You can add a link to the live demo here if you host it on GitHub Pages, Vercel, Netlify, etc.)
-
 ## 📖 About The Project
 
 This portfolio is designed to be a clean, modern, and responsive representation of my professional profile. It acts as an online resume where visitors can learn more about me, the technologies I work with, and the projects I have built.
