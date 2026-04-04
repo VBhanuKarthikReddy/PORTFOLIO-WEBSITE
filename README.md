@@ -1,7 +1,5 @@
-Personal Portfolio Website
-Personal Portfolio Website
-
-Welcome to my personal portfolio website! This project is a multi-page website built to showcase my skills, projects, hobbies, and contact information. 
+ ## personal portfolio website
+ This project is a multi-page website built to showcase my skills, projects, hobbies, and contact information. 
 
 ## 📖 About The Project
 
