@@ -9,17 +9,18 @@ The website consists of the following sections:
 
   Home (1.index.html): A brief introduction about me and direct links to my social profiles.
   
-  Hobbies (2.hobbies.html): A  about my interests and activities outside of coding.
+  Hobbies (2.hobbies.html): About my interests and activities outside of coding.
   
-  Skills (3.skills.html): A showcase of the technical skills and tools I have experience in.
+  Skills (3.skills.html): Technical skills and tools I have learnt.
   
-  Projects (4.projects.html): A collection of projects I've worked on, demonstrating my practical experience.
+  Projects (4.projects.html): A collection of projects I worked on, showing my practical experience.
   
   Contact (5.contact.html): A way for visitors, recruiters,  collaborators to get in touch with me.
 
 ## Technologies Used
 
 HTML5: For structuring the web pages.
+
 CSS3: For styling, layout, and responsive design.
 
 
